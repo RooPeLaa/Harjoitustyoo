@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Harjoitustyo</string>
+    
+    <string-array name="filters">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+    </string-array>
+
+    <string-array name="movies">
+        <item>movieOne</item>
+        <item>movieTwo</item>
+        <item>movieThree</item>
+        <item>movieFour</item>
+        <item>movieFive</item>
+    </string-array>
+
+</resources>
